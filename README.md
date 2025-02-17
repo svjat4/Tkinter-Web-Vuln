@@ -1,4 +1,6 @@
 # Tkinter-Web-Vuln
+![km](https://github.com/user-attachments/assets/272b9be9-9231-476d-ba4f-adc021a482ae)
+
 Web Vulnerability Scanner: A Python tool with a GUI to test websites for SQL Injection, XSS, Directory Traversal, Open Redirects, WordPress vulnerabilities, and missing security headers. Integrates Nmap for open port scanning. Easy-to-use and great for web security testing!
 Before running the script, ensure the following dependencies are installed on your system:
 
